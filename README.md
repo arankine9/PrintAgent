@@ -1,5 +1,7 @@
 # PrintAgent
 
+## Status: pending client conformation
+
 # Statement of Work: Printing Company Sales Assistant Chatbot
 
 **Date:** 4/17/26
